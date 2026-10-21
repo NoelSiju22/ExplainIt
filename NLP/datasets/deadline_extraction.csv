@@ -1,0 +1,64 @@
+﻿text,deadline_text,deadline_type
+Payment must be received by 18 November 2026.,18 November 2026,payment_due
+Submit the form no later than 5 December.,5 December,submission_due
+The policy expires on 31 December 2026.,31 December 2026,expiry_date
+Please respond within 14 days of receiving this notice.,within 14 days of receiving this notice,response_period
+Please pay promptly.,,no_explicit_deadline
+"Your electricity bill of ₹1,240 is due on 18 November 2026.",18 November 2026,payment_due
+"Settle the outstanding amount of ₹2,100 by 14 February.",14 February,payment_due
+The last date for paying the tuition fee is 30 January 2027.,30 January 2027,payment_due
+Please pay the premium on or before 12th December 2026.,12th December 2026,payment_due
+Your mobile bill must be paid by 25 October to avoid disconnection.,25 October,payment_due
+The EMI is due on the 5th of every month.,5th of every month,payment_due
+Pay the property tax before 31 March 2027 to avoid a penalty.,31 March 2027,payment_due
+Payment of the late fee must be completed within 7 days.,within 7 days,payment_due
+The broadband invoice should be cleared by the end of this month.,by the end of this month,payment_due
+Fees paid after 15 November 2026 will attract a fine of ₹500.,15 November 2026,payment_due
+"Applicants must submit the form, income certificate, and college ID by 10 January 2027.",10 January 2027,submission_due
+The last date to submit the application is 20 December 2026.,20 December 2026,submission_due
+Upload the required documents before 6 PM on 3 November.,before 6 PM on 3 November,submission_due
+Claims must be filed within 30 days of discharge from the hospital.,within 30 days of discharge from the hospital,submission_due
+"Submit your assignment no later than Friday, 13 November 2026.","Friday, 13 November 2026",submission_due
+Income tax returns must be filed by 31 July.,31 July,submission_due
+The completed registration form should reach the office by 8 January.,8 January,submission_due
+Documents received after 28 February 2027 will not be considered.,28 February 2027,submission_due
+Scholarship applications close on 15 December 2026.,15 December 2026,submission_due
+Your health insurance policy expires on 31 December 2026.,31 December 2026,expiry_date
+Your driving licence is valid until 9 March 2027.,9 March 2027,expiry_date
+The current rent agreement ends on 30 April 2027.,30 April 2027,expiry_date
+Your prepaid plan will expire on 22 October 2026.,22 October 2026,expiry_date
+This offer is valid till 31 December.,31 December,expiry_date
+The fixed deposit matures on 14 August 2027.,14 August 2027,expiry_date
+Your library membership lapses on 1 January 2027.,1 January 2027,expiry_date
+The contract term ends on 31 March 2028.,31 March 2028,expiry_date
+Your motor policy certificate is valid until midnight of 2 November 2026.,midnight of 2 November 2026,expiry_date
+Please reply within 7 working days.,within 7 working days,response_period
+You have 15 days from the date of this letter to respond.,15 days from the date of this letter,response_period
+"Objections, if any, should be raised within 21 days of receipt of this notice.",within 21 days of receipt of this notice,response_period
+Confirm your acceptance within 48 hours.,within 48 hours,response_period
+"If payment is not received within 7 days, service may be suspended.",within 7 days,response_period
+Please revert to this email within 10 days.,within 10 days,response_period
+The bank must be informed within 3 days of noticing an unauthorised transaction.,within 3 days of noticing an unauthorised transaction,response_period
+Contact us within 30 days of receiving this letter if the details are incorrect.,within 30 days of receiving this letter,response_period
+You may appeal this decision in writing within 30 days.,within 30 days,appeal_period
+Applications for re-evaluation must be made within 10 days of the result declaration.,within 10 days of the result declaration,appeal_period
+An appeal can be filed within 60 days from the date of this order.,within 60 days from the date of this order,appeal_period
+The grievance must be lodged within 15 days of the rejection.,within 15 days of the rejection,appeal_period
+The counselling session will be held on 4 December 2026 at 10 AM.,4 December 2026 at 10 AM,event_date
+Your examination begins on 12 January 2027.,12 January 2027,event_date
+Please visit the branch on 17 November between 10 AM and 2 PM.,17 November between 10 AM and 2 PM,event_date
+The hearing is scheduled for 9 February 2027.,9 February 2027,event_date
+Hall tickets will be available from 1 December 2026.,from 1 December 2026,event_date
+The revised tariff will come into effect from 1 January 2027.,from 1 January 2027,effective_date
+These changes take effect on 1 April 2027.,1 April 2027,effective_date
+The new terms apply from the next billing cycle.,from the next billing cycle,effective_date
+Cancellation will be effective 30 days after we receive your notice.,30 days after we receive your notice,effective_date
+Kindly submit the documents at your earliest convenience.,,no_explicit_deadline
+Please respond as soon as possible.,,no_explicit_deadline
+Contact us if you have any questions about your statement.,,no_explicit_deadline
+This letter is for your records.,,no_explicit_deadline
+The account statement is enclosed. This is not a payment demand.,,no_explicit_deadline
+Your application is under review.,,no_explicit_deadline
+Keep this notice safe for future reference.,,no_explicit_deadline
+Late payment may attract additional charges.,,no_explicit_deadline
+Documents will be verified by the concerned office.,,no_explicit_deadline

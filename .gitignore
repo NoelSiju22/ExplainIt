@@ -1,0 +1,35 @@
+# Frontend dependencies and generated output
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# .NET generated output and IDE state
+**/bin/
+**/obj/
+**/.vs/
+*.user
+*.suo
+*.csproj.user
+
+# Uploaded documents and local data (keep placeholder only)
+Backend/ExplainIt/ExplainIt.API/Uploads/*
+!Backend/ExplainIt/ExplainIt.API/Uploads/.gitkeep
+
+# Python virtual environments and generated files
+NLP/.venv/
+NLP/venv/
+**/__pycache__/
+*.py[cod]
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/

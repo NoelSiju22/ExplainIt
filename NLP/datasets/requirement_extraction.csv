@@ -1,0 +1,52 @@
+﻿text,requirement,requirement_type
+Attach a copy of valid photo identification.,Copy of valid photo identification,identity_proof
+The claim must include the completed form and original receipts.,Completed claim form and original receipts,claim_documents
+Applicants must provide an income certificate.,Income certificate,income_proof
+No additional documents are requested in this notice.,,none_stated
+Please bring your Aadhaar card or passport for identity verification.,Aadhaar card or passport,identity_proof
+A self-attested copy of your PAN card is required.,Self-attested copy of the PAN card,identity_proof
+Candidates must carry their college ID card to the examination hall.,College ID card,identity_proof
+Provide a government-issued photo ID such as a voter ID or driving licence.,Government-issued photo ID (voter ID or driving licence),identity_proof
+Two recent passport-size photographs and a valid ID proof must be submitted.,Two passport-size photographs and a valid ID proof,identity_proof
+Submit a recent utility bill as proof of your current address.,Recent utility bill as address proof,address_proof
+An address proof not older than three months is needed for re-KYC.,Address proof not older than three months,address_proof
+Please provide your rent agreement or electricity bill to confirm your residence.,Rent agreement or electricity bill,address_proof
+Attach a copy of your ration card as address proof.,Copy of the ration card,address_proof
+Your last three months' salary slips must accompany the loan application.,Last three months' salary slips,income_proof
+Provide Form 16 for the previous financial year.,Form 16 for the previous financial year,income_proof
+A family income certificate issued by the tehsildar is mandatory for the scholarship.,Family income certificate issued by the tehsildar,income_proof
+Self-employed applicants should submit their latest income tax return.,Latest income tax return,income_proof
+Please provide six months of bank statements.,Six months of bank statements,bank_documents
+A cancelled cheque is required to set up the refund.,Cancelled cheque,bank_documents
+Submit a copy of your bank passbook showing the account number and IFSC code.,Copy of the bank passbook with account number and IFSC code,bank_documents
+The claim form must be accompanied by the original hospital bills and the discharge summary.,Original hospital bills and discharge summary,claim_documents
+Attach the FIR copy and the repair estimate to the motor insurance claim.,FIR copy and repair estimate,claim_documents
+"Please send the doctor's prescription, diagnostic reports, and pharmacy receipts.","Doctor's prescription, diagnostic reports, and pharmacy receipts",claim_documents
+The claimant must furnish the original policy document and a duly filled claim form.,Original policy document and duly filled claim form,claim_documents
+A copy of the death certificate is required to process the claim.,Copy of the death certificate,claim_documents
+Applicants must submit their Class 12 marksheet and school leaving certificate.,Class 12 marksheet and school leaving certificate,academic_documents
+Attach your latest semester grade card.,Latest semester grade card,academic_documents
+A transfer certificate from the previous institution is mandatory for admission.,Transfer certificate from the previous institution,academic_documents
+Provide your degree certificate and provisional certificate for verification.,Degree certificate and provisional certificate,academic_documents
+Please submit the migration certificate along with the admission form.,Migration certificate,academic_documents
+The completed application form must be submitted in duplicate.,Completed application form in duplicate,application_documents
+Please enclose a duly signed declaration with your application.,Duly signed declaration,application_documents
+A passport-size photograph must be pasted on the application form.,Passport-size photograph on the application form,application_documents
+A covering letter stating the reason for your request must be attached.,Covering letter stating the reason for the request,application_documents
+Please attach the payment receipt of the application fee.,Payment receipt of the application fee,payment_proof
+Bring a printout of the fee payment confirmation when you visit the office.,Printout of the fee payment confirmation,payment_proof
+Proof of the last premium payment is required for revival of the policy.,Proof of the last premium payment,payment_proof
+A medical certificate from a registered doctor is required for leave approval.,Medical certificate from a registered doctor,medical_documents
+Please furnish a fitness certificate along with the form.,Fitness certificate,medical_documents
+The contract must be signed by both parties and witnessed by two persons.,Signatures of both parties and two witnesses,other_documents
+A no-objection certificate from the landlord is required.,No-objection certificate from the landlord,other_documents
+The vehicle registration certificate and valid pollution certificate must be produced.,Vehicle registration certificate and valid pollution certificate,other_documents
+A caste certificate issued by the competent authority must be uploaded.,Caste certificate issued by the competent authority,other_documents
+This notice is for your information only.,,none_stated
+Your account statement is enclosed for your records.,,none_stated
+No further documents are required from you at this time.,,none_stated
+Your payment has been received. Thank you.,,none_stated
+Please contact the office if you have any questions.,,none_stated
+Your application is being processed.,,none_stated
+The revised timetable is attached for your reference.,,none_stated
+Please retain this letter for future correspondence.,,none_stated

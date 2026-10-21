@@ -1,0 +1,70 @@
+﻿term,simple_explanation,example_context
+Premium,The amount you pay to keep an insurance policy active.,insurance
+Outstanding balance,Money that has not yet been paid.,bill_or_bank
+Late fee,An extra charge for paying after the deadline.,bill_or_bank
+Renewal,"Extending a service, policy, or agreement for another period.",insurance_or_contract
+Termination,The ending of an agreement or service.,contract
+Notice period,The amount of time one side must give before a change or cancellation takes effect.,contract
+Eligibility,The conditions someone must meet to qualify for something.,college_or_government
+Appeal,A request to have a decision reviewed again.,government_or_insurance
+Due date,The last day by which a payment should be made.,bill_or_bank
+Billing cycle,"The regular period, such as a month, that a bill covers.",bill_or_bank
+Minimum amount due,The smallest payment you must make by the due date to avoid a late fee.,bill_or_bank
+Overdue,Past the date by which payment or action was expected.,bill_or_bank
+Statement,A summary of your transactions and balance over a period of time.,bill_or_bank
+Invoice,A document listing what you were charged for and how much you owe.,bill_or_bank
+EMI,Equated Monthly Instalment: a fixed amount you pay every month to repay a loan.,bill_or_bank
+Interest,"An extra charge for borrowing money, or a reward for keeping money in an account.",bill_or_bank
+Principal,"The original amount of a loan, not counting interest.",bill_or_bank
+Credit limit,The maximum amount you are allowed to borrow or spend on a credit card.,bill_or_bank
+Overdraft,"Spending more money than your account holds, which the bank covers for a fee or interest.",bill_or_bank
+Minimum balance,The least amount of money you must keep in your account to avoid a penalty.,bill_or_bank
+Direct debit,An arrangement that lets a company take payments from your bank account automatically.,bill_or_bank
+Standing instruction,A permanent order to your bank to make a payment automatically at regular intervals.,bill_or_bank
+Chargeback,A reversal of a card payment after you dispute it with your bank.,bill_or_bank
+Reconnection fee,"A charge for restoring a service, such as electricity or internet, after it was cut off.",bill_or_bank
+Security deposit,"Money held as a guarantee, usually returned if you meet the terms.",bill_or_bank
+Arrears,Money that should have been paid earlier but is still unpaid.,bill_or_bank
+KYC,Know Your Customer: the process of verifying your identity and address with a bank or service.,bill_or_bank
+Disconnection notice,A warning that a service will be stopped if you do not pay or act by a certain date.,bill_or_bank
+Tariff,The set of rates or prices charged for a service.,bill_or_bank
+Roaming charges,Extra fees for using a mobile network outside your home area.,bill_or_bank
+Policy,The written agreement between you and an insurer that sets out what is covered.,insurance
+Sum insured,The maximum amount an insurer will pay out under your policy.,insurance
+Claim,A request to your insurer to pay for a loss or expense covered by your policy.,insurance
+Deductible,The part of a claim you must pay yourself before the insurer pays the rest.,insurance
+Co-payment,A fixed share of the cost of a claim that you pay and the insurer does not.,insurance
+Waiting period,The time after buying a policy before certain benefits can be claimed.,insurance
+Grace period,Extra time after the due date during which you can still pay without losing cover.,insurance
+Lapse,When a policy ends because the premium was not paid in time.,insurance
+Exclusion,Something your policy does not cover.,insurance
+Nominee,The person you choose to receive the benefit of a policy if something happens to you.,insurance
+Cashless claim,"A claim where the insurer pays the hospital directly, so you do not pay upfront.",insurance
+Reimbursement claim,A claim where you pay first and the insurer pays you back afterwards.,insurance
+No claim bonus,A discount or extra cover given for a year in which you made no claims.,insurance
+Policy certificate,A document confirming that your policy is active and showing its period of cover.,insurance
+Pre-existing condition,A health problem you already had before buying the policy.,insurance
+Clause,A single numbered part of a contract that covers one specific point.,contract
+Party,A person or organisation that signs a contract.,contract
+Liability,"Legal responsibility for loss, damage, or debt.",contract
+Indemnity,A promise to cover someone else's loss or damage.,contract
+Breach,Failing to follow a term of an agreement.,contract
+Force majeure,"An unexpected event outside anyone's control, such as a flood, that excuses a party from the contract.",contract
+Confidentiality,A duty to keep certain information private.,contract
+Amendment,A written change made to an existing agreement.,contract
+Arbitration,A way of settling a dispute by a neutral person instead of going to court.,contract
+Lock-in period,A set time during which you cannot cancel an agreement without a penalty.,contract
+Deliverables,The specific things one side has agreed to provide under a contract.,contract
+Witness,A person who watches a document being signed and signs to confirm it.,contract
+Admission,Being accepted into a college or course.,college_or_government
+Hall ticket,A document that allows you to enter an examination hall.,college_or_government
+Re-evaluation,A request to have your exam answers checked again.,college_or_government
+Provisional certificate,A temporary certificate issued until the final one is ready.,college_or_government
+Scholarship,Money given to a student to help pay for education.,college_or_government
+Circular,An official notice sent to many people at once.,college_or_government
+Attestation,Confirmation by an authorised person that a copy is a true copy of the original.,college_or_government
+Self-attested,A copy of a document that you have signed yourself to say it is a true copy.,college_or_government
+Notification,"An official announcement of a rule, date, or decision.",college_or_government
+Grievance,A formal complaint about unfair treatment or a service problem.,college_or_government
+Domicile certificate,A document proving that you live permanently in a particular state.,college_or_government
+No-objection certificate,A document stating that an organisation has no objection to what you plan to do.,college_or_government

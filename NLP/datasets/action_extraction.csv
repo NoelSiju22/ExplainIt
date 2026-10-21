@@ -1,0 +1,74 @@
+﻿text,action,action_type
+Please pay the outstanding balance before the due date.,Pay the outstanding balance,payment
+Submit the completed application form with proof of address.,Submit the application form and proof of address,submit_documents
+You must renew your policy before it expires.,Renew the policy,renewal
+Students must register for the examination online.,Register for the examination online,registration
+Keep this letter for your records; no action is required.,,no_action
+You may appeal this decision in writing within 30 days.,Submit a written appeal,appeal
+"Your electricity bill of ₹1,240 is due on 18 November 2026. Please make the payment on time.","Pay the electricity bill of ₹1,240",payment
+"Kindly clear the pending water tax of ₹2,100 at the municipal office.","Pay the pending water tax of ₹2,100",payment
+Please pay the tuition fee for the second semester through the college portal.,Pay the second semester tuition fee,payment
+Your mobile bill is overdue. Pay the amount immediately to avoid suspension of service.,Pay the overdue mobile bill,payment
+Please deposit the EMI amount in your loan account before the end of the month.,Deposit the EMI amount in the loan account,payment
+The premium for your health policy is due. Please pay it online or at any branch.,Pay the health policy premium,payment
+You are requested to settle the broadband charges for the current billing cycle.,Pay the broadband charges,payment
+Please pay the late fee of ₹150 along with your next bill.,Pay the late fee of ₹150 with the next bill,payment
+Property tax for the year 2026-27 must be paid at the municipal corporation counter.,Pay the property tax for 2026-27,payment
+Pay the examination fee at the accounts section before collecting your hall ticket.,Pay the examination fee,payment
+Please upload a scanned copy of your Aadhaar card on the portal.,Upload a scanned copy of the Aadhaar card,submit_documents
+Applicants must submit their income certificate and college ID to the scholarship office.,Submit the income certificate and college ID,submit_documents
+Send us the original receipts along with the claim form.,Send the original receipts and the claim form,submit_documents
+Kindly provide your latest salary slips and bank statements for loan processing.,Provide the latest salary slips and bank statements,submit_documents
+Please submit your address proof at the nearest branch to complete re-KYC.,Submit address proof at the branch for re-KYC,submit_documents
+Submit the duly signed declaration form to the department office.,Submit the signed declaration form,submit_documents
+You are required to produce the original marksheets during verification.,Produce the original marksheets for verification,submit_documents
+Please email a copy of the discharge summary to the claims team.,Email the discharge summary to the claims team,submit_documents
+Your car insurance policy is about to expire. Renew it to continue coverage.,Renew the car insurance policy,renewal
+Please renew your driving licence before the validity ends.,Renew the driving licence,renewal
+Your postpaid plan will end soon; renew it to keep your current benefits.,Renew the postpaid plan,renewal
+The rent agreement needs to be renewed for another eleven months.,Renew the rent agreement,renewal
+Renew your library membership at the front desk to continue borrowing books.,Renew the library membership,renewal
+"To keep your fixed deposit running, please instruct the bank to renew it.",Instruct the bank to renew the fixed deposit,renewal
+Your professional licence must be renewed every year.,Renew the professional licence,renewal
+Please register on the university portal to receive your semester timetable.,Register on the university portal,registration
+Candidates should complete online registration for the entrance test.,Complete online registration for the entrance test,registration
+Register your mobile number to receive transaction alerts.,Register the mobile number for transaction alerts,registration
+New students must enrol in their elective courses through the student portal.,Enrol in elective courses on the student portal,registration
+Please register your vehicle details at the RTO office.,Register the vehicle details at the RTO office,registration
+Sign up for the online account to view your bills and statements.,Sign up for the online account,registration
+"If you disagree with the assessment, you can file an appeal with the tax authority.",File an appeal with the tax authority,appeal
+You may request a review of your claim rejection by writing to the grievance cell.,Write to the grievance cell to request a review,appeal
+Students who wish to challenge their marks may apply for re-evaluation.,Apply for re-evaluation,appeal
+An appeal against this order can be filed before the appellate authority.,File an appeal before the appellate authority,appeal
+You have the right to contest this penalty by submitting a written objection.,Submit a written objection to the penalty,appeal
+Please contact your branch manager to discuss the pending issue with your account.,Contact the branch manager about the account issue,contact
+Call our helpline if you notice any unauthorised transaction.,Call the helpline about unauthorised transactions,contact
+Contact the insurer to renew your policy if you want to keep coverage active.,Contact the insurer to renew the policy,contact
+Please get in touch with the hostel warden regarding your room allotment.,Contact the hostel warden about room allotment,contact
+"For any billing queries, write to the customer care email address.",Write to customer care for billing queries,contact
+Please verify your name and roll number on the examination list.,Verify the name and roll number on the examination list,verify_details
+Check the details printed on the enclosed statement and report any mistakes.,Check the statement details and report any mistakes,verify_details
+Kindly confirm that your registered address is correct.,Confirm the registered address is correct,verify_details
+Review the draft agreement and confirm the terms are acceptable.,Review the draft agreement and confirm the terms,verify_details
+Please check the due date printed on the attached invoice.,Check the due date on the invoice,verify_details
+Update your PAN details in your bank account to avoid higher tax deduction.,Update the PAN details in the bank account,update_details
+Please link your Aadhaar with your mobile connection.,Link the Aadhaar with the mobile connection,update_details
+Update your nominee details on the policy portal.,Update the nominee details on the policy portal,update_details
+Kindly update your email address with the college office.,Update the email address with the college office,update_details
+Your certificate is ready for collection from the designated office.,Collect the certificate from the designated office,collect
+Please collect your hall ticket from the examination section.,Collect the hall ticket from the examination section,collect
+You are requested to visit the branch with your original passbook.,Visit the branch with the original passbook,attend
+Please attend the counselling session at the college auditorium.,Attend the counselling session,attend
+Appear before the officer along with your supporting documents.,Appear before the officer with supporting documents,attend
+Both parties must sign the agreement on every page.,Sign the agreement on every page,sign
+Please sign and return the enclosed acknowledgement copy.,Sign and return the acknowledgement copy,sign
+Reply to this notice to confirm whether you accept the revised terms.,Reply to confirm acceptance of the revised terms,respond
+Please respond with a written explanation for the delay.,Respond with a written explanation for the delay,respond
+The account statement is enclosed for your records. This is not a payment demand.,,no_action
+This is an informational message about changes to our privacy policy. No response is needed.,,no_action
+"Your payment of ₹3,500 has been received. Thank you.",,no_action
+This circular is for your information only.,,no_action
+Your application has been received and is under review. You will be informed of the outcome.,,no_action
+Your policy has been renewed successfully. Please retain this certificate for your records.,,no_action
+This notice is issued for general awareness; you need not take any action.,,no_action
+Your request to update the address has been completed.,,no_action
